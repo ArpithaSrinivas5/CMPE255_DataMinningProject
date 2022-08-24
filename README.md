@@ -7,7 +7,10 @@
 
 # Team Members:
 
-Arpitha Srinivas                         
-Ankitha Jaswal             
-Sarah Yu
+Arpitha Srinivas 
+
+Ankita Jaswal 
+
+Sarah Yu 
+
 Reg Anastacio
