@@ -1,25 +1,59 @@
-
 # Project Title: Converting Handwritten Documents into Digitized Versions
- 
+
 # Team Members:
-Arpitha Srinivas   015908880
+○ Arpitha Srinivas 
 
-Ankitha Jaswal    
+○ Ankitha Jaswal 
 
-Reg Anastacio 
+○ Reg Anastacio 
 
-Kunhong Yu
- 
- 
-# Data set : 
+○ Sarah Yu 
+
+# Data set :
 https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
- 
- 
-Project idea: Include a clear description of the problem and the approach you have identified to solve it
-Converting Handwritten Documents into Digitized Versions
-Many people still choose to take their notes traditionally: with pen and paper. However, there are certain pitfalls in the traditional way of handwritten text. It is difficult to store and access physical documents in an organized manner, search through them efficiently and to share them with others. Thus, handwriting recognition is the ability to interpret intelligible handwritten input from sources such as paper documents, touch-screens and other devices into digital form. A handwriting recognition system handles formatting, performs correct segmentation into characters, and finds the most plausible words. Hence, translating the handwritten characters to the digital format is gaining more popularity. With time the text on the paper will fade away but a file stored on a computer will be lost only if it is deleted. Storing any handwritten document in a digital format has gained prime importance. Once the handwritten document is given as the input in the form of a high defi
- 
-Project Description :A brief description of the steps you will take to complete the project
-Converting Handwritten Documents into Digitized Versions This type of project is a perfect way to practice deep learning and neural networks — essentials for image recognition in machine learning, also learn how to turn pixel data into images, as well as how to use logistic regression and MNIST datasets.
-Computers and phones may be more ubiquitous than ever, but many people still prefer the traditional feeling of writing with ink on paper. After all, this method served us well for hundreds of years of human history. Despite the availability of various technological writing tools, many people still choose to take their notes traditionally: with pen and paper. However, there are certain pitfalls in the traditional way of handwritten text. It is difficult to store and access physical documents in an organized manner, search through them efficiently and to share them with others. Thus, handwriting recognition is the ability to interpret intelligible handwritten input from sources such as paper documents, touch-screens and other devices into digital form. A handwriting recognition system handles formatting, performs correct segmentation into characters, and finds the most plausible words. Hence, translating the handwritten characters to the digital format is gaining more popularity. With time the text on the paper will fade away but a file stored on a computer will be lost only if it is deleted. Storing any handwritten document in a digital format has gained prime importance. Once the handwritten document is given as the input in the form of a high definition image, it segments each character in the image and identifies the letters. Further, the letters are identified and then goes on to detect the words in the image. This is performed with the aid of Machine Learning algorithms based on the training it has got from the training data. The expected output is to get a word document format of the given input image. The system can be trained by a large data set of images that show the various styles and shapes in which people write. Machine Learning plays a very important role in training the system with huge data. This can be further used in organizations and companies that store important documents only in written format. It becomes easier and faster to complete the work with such a system available at hand.
 
+# Project Problem Description:
+There are certain pitfalls in the traditional way of handwritten text. It is difficult to
+store and access unlike digital documents. A way to tackle this issue is to convert
+handwritten text to digital. Handwritten characters can be digitized through
+different techniques that have evolved over the years. For this project, we want to
+focus on classification techniques. Three popular classification techniques are
+Random Forest, k-Nearest Neighbors (KNN), and OCR using Pattern Matching.
+To provide a better translation of handwritten characters, comparing the accuracy
+and performance of each technique is needed. We are observing the accuracy of
+these techniques using the same dataset. Then we will compare the performance
+of each technique and see if one method is more efficient than the other.
+
+# Project Solution :
+ ○ Pre-processing of dataset
+ 
+ ○ Data training/testing
+ 
+ ○ Post-processing
+ 
+ ○ Data visualization or extract patterns
+
+# References:
+
+ ○ Optical Character Recognition Implementation Using Pattern Matching
+   https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.108
+   9&rep=rep1&type=pdf
+   
+ ■ Feature extraction and recognition algorithm
+ 
+ ○ k-Nearest Neighbor
+ 
+   https://www.webology.org/2015/v12n2/a139.pdf
+ 
+ ○ Classification using Random Forest
+ https://towardsdatascience.com/understanding-random-forest-58381e060
+ 2d2
+ https://h1ros.github.io/posts/interpretability-of-random-forest-prediction-formnist-
+ classification-using-lime/
+
+# Roles of each team member:
+ ○ Random Forest Classification Model -> Arpitha , Sarah
+ 
+ ○ Pattern Matching Algorithm & KNN Classifier Algorithm -> Ankita, Reg
+ 
+ ○ Testing, comparing the accuracy of models -> Ankita, Arpitha, Sarah, Reg
