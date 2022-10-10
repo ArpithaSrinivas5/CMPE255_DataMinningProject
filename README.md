@@ -1,4 +1,5 @@
-# Project Title: Converting Handwritten Documents into Digitized Versions
+# Project Title: Analysis of Classification Models on MNIST Dataset![image](https://user-images.githubusercontent.com/89316938/194950783-7e971ea7-a953-47e6-8456-e6a39ade4c2d.png)
+
 
 # Team Members:
 ○ Arpitha Srinivas 
