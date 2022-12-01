@@ -41,6 +41,9 @@ of each technique and see if one method is more efficient than the other.
    
  ■ Feature extraction and recognition algorithm
  
+ ○ Decision Tree
+ https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
+ 
  ○ k-Nearest Neighbor
  
    https://www.webology.org/2015/v12n2/a139.pdf
@@ -53,7 +56,7 @@ of each technique and see if one method is more efficient than the other.
  classification-using-lime/
 
 # Roles of each team member:
- ○ Random Forest Classification Model -> Arpitha , Sarah
+ ○ Decision Tree & Random Forest Classification Model -> Arpitha , Sarah
  
  ○ Pattern Matching Algorithm & KNN Classifier Algorithm -> Ankita, Reg
  
